@@ -1,5 +1,4 @@
 FROM ubuntu:16.04
-MAINTAINER Ruslan Gainanov <gromrx1@gmail.com>
 
 ENV SLURM_VER=16.05.9
 
